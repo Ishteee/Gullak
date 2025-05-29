@@ -1,6 +1,6 @@
 # Gullak
 
-**Gullak** is a simple group savings tracking app designed for friends, families, or small communities who want to save together informally — without dealing with wallets, banks, or complex finance tools.
+**Gullak** is a group savings tracking app designed for friends, families, or small communities who want to save together informally — without dealing with wallets, banks, or complex finance tools.
 
 It helps you keep track of every deposit and withdrawal, stay on top of your savings goals, and motivate your group to save more with a friendly leaderboard.
 
