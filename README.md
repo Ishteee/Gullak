@@ -26,22 +26,6 @@ Gullak is ideal for:
 - Classmates pooling funds for a fest
 - Communities running informal monthly savings
 
-## Tech Stack
-
-- Flutter (Dart)
-- Supabase Authentication
-- Supabase Storage for storage
-
-## Getting Started
-
-1. Clone the repository
-
-2. Install Flutter dependencies
-
-3. Set up Supabase
-
-4. Run the app:
-
 ## Screenshots
 
 <table>
@@ -77,6 +61,21 @@ Gullak is ideal for:
   </tr>
 </table>
 
+## Tech Stack
+
+- Flutter (Dart)
+- Supabase Authentication
+- Supabase Storage for storage
+
+## Getting Started
+
+1. Clone the repository
+
+2. Install Flutter dependencies
+
+3. Set up Supabase
+
+4. Run the app:
 
 ## License
 
